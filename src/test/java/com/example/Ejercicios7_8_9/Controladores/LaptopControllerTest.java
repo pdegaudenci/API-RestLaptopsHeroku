@@ -19,7 +19,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
 class LaptopControllerTest {
-    /*
+
     private TestRestTemplate testRestTemplate;
 
     @Autowired
@@ -141,6 +141,6 @@ class LaptopControllerTest {
         assertEquals(0, laptops.size());
     }
 
-     */
+
 
 }
